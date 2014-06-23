@@ -1,0 +1,9 @@
+Building Lulzcoin
+
+See doc/readme-qt.rst for instructions on building Lulzcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lulzcoin.
+
+See doc/build-*.txt for instructions on building lulzcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lulzcoin.
